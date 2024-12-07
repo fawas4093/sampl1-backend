@@ -9,7 +9,7 @@ dotenv.config();
 
 const app = express();
 const corsOptions = {
-    origin: 'https://sample11-mern-x6o9-lv486xftt-fawas4093s-projects.vercel.app',
+    origin: 'https://sample11-mern-fpip-djurc1ol4-fawas4093s-projects.vercel.app/',
     methods: 'GET,POST,PUT,DELETE',
     allowedHeaders: ['Content-Type', 'Authorization'], // Allow Authorization header
   };
